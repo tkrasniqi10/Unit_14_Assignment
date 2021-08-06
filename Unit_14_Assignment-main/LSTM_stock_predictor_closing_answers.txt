@@ -1,0 +1,10 @@
+Answers:
+
+Question 1: Which model has a lower loss?
+Answer 1: The closing prices predictor had the lowest loss
+
+Question 2: Which model tracks the actual values better over time?
+Answer 2: The closing prices predictor tracked the actual values best.
+
+Question 3: Which window size works best for the model?
+Answer 3: The best window size was 1.
